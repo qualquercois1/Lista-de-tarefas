@@ -1,0 +1,5 @@
+main.o
+process.o
+screen.o
+main.exe
+.vscode

@@ -4,12 +4,13 @@
 
 int main() {
     Option *options = NULL;
-    createOption(&options, "chari viado");
-    createOption(&options, "mauro viado");
-    createOption(&options, "lacerda viado");
-    createOption(&options, "chari viado");
-    createOption(&options, "mauro viado");
-    createOption(&options, "lacerda viado");
+    createOption(&options, "dar a bunda");
+    createOption(&options, "comer viado");
+    createOption(&options, "lamber viado");
+    createOption(&options, "bapihomet");
+    createOption(&options, "passoa");
+    createOption(&options, "vixi");
+
 
     createScreen(options);
     freeOption (options);

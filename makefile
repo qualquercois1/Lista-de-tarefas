@@ -13,4 +13,4 @@ main: $(OBJ)
 .PHONY: clean
 
 clean:
-	rm main $(OBJ)
+	del main $(OBJ)

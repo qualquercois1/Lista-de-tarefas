@@ -5,9 +5,9 @@
 #include <windows.h>
 
 void printOptions() {
-    printf(" (1) - Criar Tarefa");
-    printf(" (2) - Alterar Tarefa");
-    printf(" (3) - Excluir Tarefa");
+    printf(" (1) - Criar Tarefa ||");
+    printf(" (2) - Alterar Tarefa ||");
+    printf(" (3) - Excluir Tarefa ||");
     printf(" (0) - Sair");
     printf("\n");
 }
